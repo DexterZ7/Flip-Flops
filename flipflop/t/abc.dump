@@ -1,0 +1,100 @@
+$date
+	Sat May  6 08:36:48 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module ttest $end
+$var wire 1 ! q $end
+$var wire 1 " qn $end
+$var reg 1 # clk $end
+$var reg 1 $ qnpr $end
+$var reg 1 % qpr $end
+$var reg 1 & t $end
+$scope module t2 $end
+$var wire 1 ' clk $end
+$var wire 1 ( qpr $end
+$var wire 1 ) t $end
+$var reg 1 * q $end
+$var reg 1 + qn $end
+$var reg 1 , qnpr $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x,
+x+
+x*
+0)
+x(
+0'
+0&
+x%
+x$
+0#
+x"
+x!
+$end
+#10
+1#
+1'
+#15
+0$
+1%
+1(
+#20
+0#
+0'
+#30
+0+
+0"
+1*
+1!
+0,
+1#
+1'
+#35
+1$
+0%
+0(
+#40
+0#
+0'
+#45
+0$
+1%
+1(
+1&
+1)
+#50
+1+
+1"
+0*
+0!
+1#
+1'
+#55
+1$
+0%
+0(
+#60
+0#
+0'
+#70
+0+
+0"
+1*
+1!
+1,
+1#
+1'
+#80
+0#
+0'
+#90
+1#
+1'
